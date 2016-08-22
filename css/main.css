@@ -1,0 +1,45 @@
+/* Inserta tu CSS aqui */
+
+.Primero{
+	margin-bottom: 20px;
+
+	}
+
+.box{
+	width: 100px;
+	height: 100px;
+	background-color: #CBCACA;
+	border: 2px solid black;
+	display: block;
+	
+}
+
+.conjunto{
+
+	display: inline;
+	padding:  100px 10px 10px 10px;
+	width: 360px;
+	}
+
+
+.interior{
+	display: inline-block;
+	margin-left: 3px;
+	margin-right: 3px;
+
+}
+
+.conjunto2{
+	margin-bottom: 10px;
+	display: block;
+
+}
+
+.doble{
+	display: inline-block;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+.ultimo{
+	margin-top: 10px;
+}
